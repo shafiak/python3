@@ -1,4 +1,4 @@
-1.git init
+git init
 1.1 git status
 2.git config --global user.name "username"
 3.git config --global user.email "user-email"
